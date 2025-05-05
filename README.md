@@ -133,3 +133,9 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
+
+### Postman Collection
+
+You can download the Postman collection for this project from the link below:
+
+[Download Postman Collection](https://github.com/moumenahl/Blog_Management/raw/main/Blogs_Management.postman-collection.json)
